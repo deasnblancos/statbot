@@ -1,0 +1,6 @@
+{
+  "token": "",
+  "prefix": [".", "!"],
+  "mongoUrl": "mongodb+srv://deasnwin123:31cekenmaymun@cluster0.bijww.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "owners": ["852608747813077052"]
+}

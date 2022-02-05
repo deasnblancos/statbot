@@ -1,0 +1,28 @@
+{
+  "publicParents": ["938493000445734930"],
+  "registerParents": [""],
+  "solvingParents": [""],
+  "privateParents": ["938493000840011860"],
+  "aloneParents": ["938493001171357792"],
+  "funParents": [""],
+  "ignoreChannels": [""],
+  "coinSystem": true,
+  "rankLog": "938493001980850199",
+  "tag": "çare",
+  "staffs": ["939555790107340800"],
+  "messageCount": 30,
+  "messageCoin": 2,
+  "voiceCount": 10,
+  "voiceCoin": 3,
+  "publicCoin": 5,
+  "taggedCoin": 3,
+  "emojis": {
+    "coin": "<a:deasn_coin:910592983458537532>",
+    "fillStart": "<a:deasn_fillstart:910592692961050644>",
+    "fill": "<a:deasn_fill:910592504955539566>",
+    "fillEnd": "<a:deasn_fillend:910592621263605830>",
+    "emptyStart": "<:deasn_emptystart:910592412919930941>",
+    "empty": "<:deasn_empty:910592081129517076>",
+    "emptyEnd": "<:deasn_emptyend:910592328979324968>"
+  }
+}
